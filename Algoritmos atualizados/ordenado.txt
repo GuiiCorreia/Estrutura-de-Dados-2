@@ -1,0 +1,10 @@
+Guilherme Correia
+Insertion Sort
+
+Tempo total: 00 : 00 : 00:0
+
+[-13805, 3724, 3945, 5371, 16190]
+
+Comparacoes: 1
+
+Trocas: 5

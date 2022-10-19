@@ -1,0 +1,7 @@
+Guilherme Correia
+
+Selection Sort
+
+Tempo total: 00 : 00 : 00:0
+
+([-13805, 3724, 3945, 5371, 16190], 'Numero de Comparacoes: 1 e Numeros de Trocas: 5')
